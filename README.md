@@ -1,4 +1,4 @@
-#AI-ML-CARTOONIFIER😎❤️
+# AI-ML-CARTOONIFIER😎❤️
 # 🎨 Cartoonify: Turning Photos into Fun Art! 🎉
 
 In this guide, we'll walk you through the entire process of transforming real photos into cartoonified images. Along the way, we'll explain each step and the technology stack involved in the process. Let's dive in!
